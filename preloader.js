@@ -1,4 +1,5 @@
-window.onload = function () {
+window.addEventListener("DOMContentLoaded", function (){
+    window.onload = function () {
     let preloader = document.getElementById("preloader")
     preloader.classList.add("hide_preloader")
     setInterval(function (){
@@ -6,3 +7,4 @@ window.onload = function () {
     },950)
 
 }
+})
