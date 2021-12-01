@@ -83,6 +83,7 @@ h1,h2,h3,h4,h5,h6 {
     align-items: center;
     position: relative;
 }
+<<<<<<< HEAD
 
 .video_bg video {
     height: 100vh;
@@ -90,6 +91,15 @@ h1,h2,h3,h4,h5,h6 {
     position: absolute;
     z-index: 1;
 
+=======
+
+.video_bg video {
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+
+>>>>>>> 468e7ff9a25678e9914e042fd4cea529cbdfb017
     object-fit: cover;
 }
 
