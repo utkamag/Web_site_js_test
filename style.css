@@ -295,7 +295,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #preloader.hide_preloader {
-    animation: hidepreloader 10s;
+    animation: hidepreloader 1s;
 }
 
 #preloader.preloader_hidden {
