@@ -4,6 +4,6 @@ window.addEventListener("DOMContentLoaded", function (){
     preloader.classList.add("hide_preloader")
     setInterval(function () {
         preloader.classList.add("preloader_hidden")
-    })
+    }, 990)
     }
 })
