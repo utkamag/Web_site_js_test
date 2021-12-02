@@ -2,7 +2,7 @@
 
 Ссылка на проект: 
 
-![](img/screenshot/screenshot.png)
+![](Img/screenshot/screenshot.png)
 
 Технологии, используемые в работе: HTML/CSS/JavaScript
 
