@@ -1,4 +1,4 @@
-window.addEventListener("DOMContentLoaded", function (){
+document.addEventListener("DOMContentLoaded", function (){
     window.onload = function () {
     let preloader = document.getElementById("preloader")
     preloader.classList.add("hide_preloader")
