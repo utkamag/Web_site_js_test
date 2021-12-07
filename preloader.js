@@ -1,3 +1,5 @@
+// Прелоадер для сайта
+
 document.addEventListener("DOMContentLoaded", function (){
     window.onload = function () {
     let preloader = document.getElementById("preloader")

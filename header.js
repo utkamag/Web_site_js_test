@@ -1,3 +1,5 @@
+// Скрипт для скрытия элемента ".header"
+
 document.addEventListener("DOMContentLoaded", function (){
 
     function skrollHeader () {
