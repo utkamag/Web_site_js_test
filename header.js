@@ -1,8 +1,8 @@
 // Скрипт для скрытия элемента ".header"
 
-document.addEventListener("DOMContentLoaded", function (){
+document.addEventListener("DOMContentLoaded", function () {
 
-    function skrollHeader () {
+    function skrollHeader() {
 
         const header = document.querySelector(".header")
 
@@ -13,10 +13,10 @@ document.addEventListener("DOMContentLoaded", function (){
 
             countSkroll = pageYOffset
 
-            if (countSkroll > preSkroll){
+            if (countSkroll > preSkroll) {
                 header.classList.add("header_hiden")
             }
-            if (countSkroll < preSkroll){
+            if (countSkroll < preSkroll) {
                 header.classList.remove("header_hiden")
             }
 
